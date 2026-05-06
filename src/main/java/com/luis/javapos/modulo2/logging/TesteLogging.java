@@ -10,6 +10,7 @@ public class TesteLogging {
 
     public static void main(String[] args) {
 
+        // carregar config
         try {
             LogManager.getLogManager().readConfiguration(
                     TesteLogging.class.getClassLoader()
