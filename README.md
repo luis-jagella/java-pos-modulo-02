@@ -152,3 +152,5 @@ Desenvolvido por **Luís Gabriel Pereira**
 ---
 
 Obs: Projeto já finalizado, pois o módulo 02 já foi concluído com uma avaliação virtual a fim de colocar nosso conhecimento adquirido ao longe desses projetos, de forma consolidada e concisa.
+
+Módulo finalizado.
